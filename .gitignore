@@ -1,0 +1,6 @@
+.idea
+node_modules
+.vscode
+staticfiles
+/static/dist
+package-lock.json
